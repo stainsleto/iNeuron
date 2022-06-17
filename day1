@@ -1,0 +1,16 @@
+1 . Javascript can be used for developing websites and mobile apps.
+
+2 . Client side is the area where the user can intract with the application, Front-end of an application is mentioned as client side. 
+    Server side is the type of development where the server side is managed, this is mentioned as backend development. This programming is important because this 
+    intracts with the browser or the web servers.
+ 
+3 . Nodejs is a Javascript framework used for server side programming.
+
+4. The Scope in Javascript is really high because this contains the frameworks for both front-end and back-end, as a single language can be used for both server side and 
+    client side this is prefered by most of the tech companies.
+    
+5. JavaScript is synchronous.
+
+6. Javascript is Single-threaded because it can execute only one command at a time.
+
+7. DOM is Document Object Model, This is a programming interface that allows to access both the HTML and CSS of a website using Javascript.
