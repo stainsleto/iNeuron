@@ -12,5 +12,6 @@
     Example : a =10 , a+ = 5 ; which means a = a + 5 ; a = 10 + 5;
     
 5. Use Strict is a mode in JavaScript which is used to exclude the the code that comes under this particular keyword. 
+   This is not supported in Internet Explorer 9 and it's older versions.
       Example : "use strict";
                  x = 10.5; -- here x will not be declared, which will create an error. 
