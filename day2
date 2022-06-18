@@ -1,0 +1,16 @@
+1. Lexical structure describes some basic structure for the porgramming language. 
+   Few basic structures are : 
+      * Semicolon is optional, if we write the different statments in different line it's fine else we will have to use semicolon 
+      * Js is case sensitive 
+      * Two types of comment is supported by Js - one is // and */      */ 
+      * Reserved words can't be used as Identifiers. Few example - enum,package,private,etc.. 
+      * Js is written in Unicode ( Emoji's we use are unicode ) 
+ 
+2. Unicode is used to encode characters to numbers. There are various versions of Unicode like UCS-2 , UTF- 8 , UTF - 32. 
+
+4. The term shorthand operator means writing certain kind of assignments in a simplified way. 
+    Example : a =10 , a+ = 5 ; which means a = a + 5 ; a = 10 + 5;
+    
+5. Use Strict is a mode in JavaScript which is used to exclude the the code that comes under this particular keyword. 
+      Example : "use strict";
+                 x = 10.5; -- here x will not be declared, which will create an error. 
