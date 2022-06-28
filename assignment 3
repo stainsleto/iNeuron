@@ -1,0 +1,34 @@
+1.  \b	Backspace
+    \f	Form Feed
+    \n	New Line
+    \r	Carriage Return
+    \t	Horizontal Tabulator
+    \v	Vertical Tabulator
+    \'	Single quote
+    \"	Double quote
+    \\	Backslash
+    
+2. The length property returns the length of a string
+    example : let file = "ABCD";
+              let fileLength = file.length;
+    
+    Substring can be used to extract characters between two positions from a string and return the substring. 
+      exmaple :  let text = "Hello world!";
+                 let result = text.substring(1, 4);
+   
+ 
+3. In padStart the padding is added to the start of the string and in padEnd the padding is added to the end of the string 
+ 
+      example : "stains".padStart(10); 
+                "stains".padEnd(10);
+                
+4. The variable declared outside a function is called global variable. When a global function and variables declared with var it
+     becomes the property of global object
+        var gVar = 5;
+        alert(window.gVar); // 5 (became a property of the global object)
+        
+        let gLet = 5;
+        alert(window.gLet); // undefined (doesn't become a property of the global object)
+        
+        
+5. The list of JavaScript engines are V8, Chakra, Spider Monkey, Javascript Core Webkit
