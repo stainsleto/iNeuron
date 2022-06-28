@@ -5,6 +5,14 @@
       * Two types of comment is supported by Js - one is // and */      */ 
       * Reserved words can't be used as Identifiers. Few example - enum,package,private,etc.. 
       * Js is written in Unicode ( Emoji's we use are unicode ) 
+      
+      
+      
+3. abstract, arguments, await*, boolean, break, byte, case, catch,char, class*, const, continue, debugger, default, delete, do, double, else, enum*, eval,
+   export*, extends*, false, final, finally, float, for,	function, goto, if, implements, import*, in,	instanceof,	int, interface
+   let*,	long,	native,	new, null,	package,	private,	protected, public,	return,	short,	static
+   super*, switch, synchronized,	this, throw, throws,	transient, true, try, typeof,	var,	void, volatile, while, with, yield 
+
  
 2. Unicode is used to encode characters to numbers. There are various versions of Unicode like UCS-2 , UTF- 8 , UTF - 32. 
 
